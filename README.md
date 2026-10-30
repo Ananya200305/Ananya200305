@@ -1,21 +1,91 @@
-# 💫 About Me:
-🔭 I’m currently working on Full-Stack projects using React, Node, and Cloud<br>👯 I’m looking to collaborate on open source and beginner-friendly projects<br>🤝 I’m looking for help with backend architecture & scalable systems<br>🌱 I’m currently learning System Design, DSA & Backend Development<br>💬 Ask me about React, JavaScript, Python, DSA & project building<br>⚡ Fun fact: I genuinely enjoy debugging and can spend hours fixing one small bug until it feels perfect 😄🚀
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=Ananya%20Aggarwal&fontSize=38&fontColor=ffffff&fontAlignY=55" width="100%" alt="Ananya Aggarwal"/>
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ananya-aggarwal-64872827a/">
+    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:aggarwalananya03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-aggarwal-64872827a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aggarwalananya03@gmail.com) 
+<p align="center">
+  <code>MCA Software Engineering · USICT, Delhi</code><br/>
+  <code>Software Engineer @ Accenture</code><br/>
+  <code>Delhi, India</code>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ananya200305&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ananya200305&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya200305&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ananya200305&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  Interested in backend development, databases and how systems work under the hood.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ananya200305&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About
+
+I'm a software engineer with a background in Mathematics and a Master's in Software Engineering.
+
+I've spent the last couple of years learning software development and building projects across the full stack. I enjoy working with backend technologies, understanding how applications communicate, and figuring out what happens behind an API.
+
+Currently, I'm focusing on strengthening my backend fundamentals and exploring microservices architecture.
+
+### What I'm Working On
+
+**Microservices-based Application**
+
+Exploring how to structure backend applications using independent services.
+
+Currently working on:
+
+- Breaking application functionality into separate services
+- Building REST APIs using Node.js and TypeScript
+- Managing communication between services
+- Working with PostgreSQL and Docker
+- Understanding service boundaries, database design and error handling
+
+<sub><code>Node.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Docker</code></sub>
+
+### Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Crowd Guard](https://github.com/Ananya200305/CrowdGuard) | Real-time crowd monitoring system for identifying crowd density and potential safety concerns. | React, Python, Django, Kafka |
+| [LensOS](https://github.com/Ananya200305/LensOS) | Image search application using natural language queries and vector embeddings. | Python, FastAPI, CLIP, Qdrant, PostgreSQL |
+| [Concert Compass](https://github.com/Ananya200305/concert-compass) | Chrome extension for discovering concerts based on music preferences. | JavaScript, Spotify API, Ticketmaster API |
+| [Weather Dashboard](https://github.com/Ananya200305/react-weather-app) | Weather application with API integration and backend data management. | React, Tailwind CSS, Appwrite |
+| [Movie Sequel Prediction](https://github.com/Ananya200305/Movie-prediction) | Machine learning project exploring movie sequel success using TMDB data. | Python, Pandas, Scikit-learn |
+| [Microservices Application](https://github.com/Ananya200305/pizzeria) | Backend project exploring independent services and inter-service communication. | Node.js, TypeScript, PostgreSQL, Docker |
+### Technologies
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,java,cpp&perline=5" height="36"/>
+  <br/><sub>Languages</sub>
+</p>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,express,fastapi,tailwindcss&perline=5" height="36"/>
+  <br/><sub>Frameworks & Libraries</sub>
+</p>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,mysql,redis,prisma&perline=5" height="36"/>
+  <br/><sub>Databases</sub>
+</p>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,linux,postman&perline=5" height="36"/>
+  <br/><sub>Tools</sub>
+</p>
+
+---
+
+<p align="center">
+  <sub>Still learning, still building, one project at a time.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=35&section=footer" width="100%"/>
+</p>
