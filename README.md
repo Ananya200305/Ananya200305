@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Ananya Aggarwal. Backend, databases, distributed systems." width="100%"/>
+  <img src="./banner.svg" alt="Ananya Aggarwal. Backend, databases, distributed systems." width="100%"/>
 </p>
 
 <p align="center">
