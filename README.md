@@ -14,7 +14,7 @@
 
 <p align="center">
   <code>MCA Software Engineering · USICT, Delhi</code><br/>
-  <code>Software Engineer @ Accenture</code><br/>
+  <!-- <code>Software Engineer @ Accenture</code><br/> -->
   <code>Delhi, India</code>
 </p>
 
